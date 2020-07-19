@@ -177,7 +177,10 @@ button:hover{
     }
 
     .artist a{
-        margin-left: 80px;
+        width: 80%;
+        height: 25%;
+        font-size: 1.8rem;
+        margin: 10%;
     }
 
 }
